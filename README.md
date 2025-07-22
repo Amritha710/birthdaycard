@@ -1,0 +1,1 @@
+A beautiful  animated birthday card created using HTML, CSS, and JavaScript. A transition to a special birthday message page when a button is clicked and there is a button to hear bithday special song for you.
